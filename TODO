@@ -1,5 +1,0 @@
-
-* To improve sliding effect
-    When slides to the next widget, it would slide over and slide back.
-    But, when slides over there is blank on the other side.
-    Show part of the next widget at the moment would better.
